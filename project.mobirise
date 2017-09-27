@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "connectguru",
     "versionFirst": "3.4.6",
-    "versionPublish": "4.2.3",
+    "versionPublish": "4.3.1",
     "name": "Connectguru ",
     "theme": {
       "name": "default",
@@ -120,8 +120,8 @@
           "_inherit": "header1",
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButtons": true,
+            "showText": false,
+            "showButtons": false,
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
@@ -137,9 +137,9 @@
             "overlayColor": "#222",
             "overlayOpacity": "0"
           },
-          "title": "MOBIRISE WEBSITE BUILDER",
+          "title": "Diffrent groups and communities&nbsp;",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
           "_tags": [
             "Theme"
           ],
